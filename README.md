@@ -1,2 +1,2 @@
 # ping-checker
-ping checker repo
+the halla ping checker
