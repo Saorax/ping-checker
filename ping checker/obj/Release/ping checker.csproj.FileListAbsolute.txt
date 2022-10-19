@@ -1,0 +1,24 @@
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\ping checker.exe.config
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\ping checker.exe
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\ping checker.pdb
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping_checker.Form1.resources
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping_checker.Properties.Resources.resources
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping checker.csproj.GenerateResource.cache
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping checker.csproj.CoreCompileInputs.cache
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping checker.csproj.CopyComplete
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping checker.exe
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping checker.pdb
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.Buffers.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.Memory.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.Numerics.Vectors.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping checker.csproj.AssemblyReference.cache
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping checker.csproj.Fody.CopyLocal.cache
+C:\Users\saora\source\repos\ping checker\ping checker\obj\Release\ping checker.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\Onova.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.Text.Json.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\saora\source\repos\ping checker\ping checker\bin\Release\System.ValueTuple.xml
