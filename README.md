@@ -1,2 +1,2 @@
 # ping-checker
-the halla ping checker
+brawlhalla ping checker
